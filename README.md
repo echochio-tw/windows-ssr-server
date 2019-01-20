@@ -1,6 +1,7 @@
 # windows-ssr-server
 
 put file to c:\ssr
+
 exc ssr.vbs
 
 ```
