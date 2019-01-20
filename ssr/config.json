@@ -3,7 +3,7 @@
     "server_port":58888,
     "local_address":"127.0.0.1",
     "local_port":1080,
-    "password":"mimamima",
+    "password":"tryit",
     "timeout":600,
     "method":"chacha20",
     "http_proxy": false,
