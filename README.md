@@ -10,3 +10,9 @@ C:\>netstat -na |findstr 58888
 ```
 
 pass firewall
+
+```
+server_port : 58888 
+password : tryit 
+method : chacha20
+```
