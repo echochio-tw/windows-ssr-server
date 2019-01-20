@@ -15,4 +15,6 @@ pass firewall
 server_port : 58888 
 password : tryit 
 method : chacha20
+protocol : origin
+obfs : plain
 ```
