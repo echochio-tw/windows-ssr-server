@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Upstream Machine Agent Service\Parameters]
+"Application"="C:\\windows\\system32\\WScript.exe"
+"AppParameters"="C:\\ssr\\ssr.vbs"
+"AppDirectory"="C:\\vbs\\"
