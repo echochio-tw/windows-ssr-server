@@ -19,3 +19,8 @@ method : chacha20
 protocol : origin
 obfs : plain
 ```
+boot exec vbscript
+
+```
+schtasks /create /sc onstart /tn "SSR" /tr "cscript.exe C:\ssr\ssr.vbs" /ru SYSTEM
+```
